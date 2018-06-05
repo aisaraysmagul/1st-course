@@ -1,0 +1,11 @@
+def square(lenght):
+    import turtle
+    bob=turtle.Turtle()
+    print(bob)
+    for i in range (4):
+        bob.fd(lenght)
+        bob.lt(90)
+    
+
+square(50)
+    

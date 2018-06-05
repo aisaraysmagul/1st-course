@@ -1,0 +1,10 @@
+Qazkom Bank
+
+Dear [Client Full Name],
+Your request has been accepted by our system.
+Our [Department: Credit, Deposit, Card, Online banking] department will reply to you as soon as possible.
+
+Thanks for being with us!
+
+Time: [#time]
+Date: [#date]

@@ -1,0 +1,2 @@
+This file has 2 lines.
+There are 14 words, because numbers are also counted.

@@ -1,0 +1,9 @@
+14000 Bauyrzhan 3.3
+14001 Shyntemir 2.8
+14005 Azat 3.5
+14007 Almas 2.4
+14010 Zhanibek 3.6
+14011 Mariyam 3.4
+14023 Tolegen 1.9
+14034 Saule 3.0
+14035 Abay 2.7
